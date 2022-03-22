@@ -15,7 +15,7 @@ I am enthusiastic to take on new challenges and projects and am a lifetime learn
 
 [![Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimnivore&show_icons=true&theme=dracula)](https://github.com/kimnivore/github-readme-stats)
 
-[![Kim' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kimnivore)](https://github.com/kimnivore/github-readme-stats)
+[![Kim' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kimnivore&layout=compact)](https://github.com/kimnivore/github-readme-stats)
 
 
 ### Languages

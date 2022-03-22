@@ -9,7 +9,7 @@ I have a background in project management, business development and banking comp
 I am enthusiastic to take on new challenges and projects and am a lifetime learner. I am known to have excellent communication and teamwork skills and am passionate about creating clean, readable and reusable code.
 
 
-###GitHub Stats
+# GitHub Stats
  
 <!-- [![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimnivore&theme=vue)](https://github.com/kimnivore/github-readme-stats)
 

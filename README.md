@@ -11,6 +11,7 @@ I'm a Full Stack Software Engineer with a background in project management, busi
 [![Kim Nguyen LinkedIn](https://img.shields.io/badge/Kim_Nguyen-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/kimnguyen79/)
 [![Kim Nguyen Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimnguyen79@gmail.com)
 
+
 # GitHub Stats
  
 <!-- [![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimnivore&theme=vue)](https://github.com/kimnivore/github-readme-stats)
@@ -66,4 +67,4 @@ I'm a Full Stack Software Engineer with a background in project management, busi
 ![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-
+<img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png">

@@ -4,7 +4,7 @@
 
 - 💗  I am passionate about creating clean, readable and reusable code.
 - ⭐  I am enthusiastic about taking on new challenges and consider myself a lifetime learner. 
-- ⚡ I am here to share my personal projects, contribute to third-party projects, and to be inspired!
+- ⚡  I am here to share my personal projects, contribute to third-party projects, and to be inspired!
 - 🌱  I have a background in project management, business development and banking compliance. 
 - 👩‍💻  I have experience in JavaScript, React, Redux, HTML, CSS, SQL, Node, Express, PostgreSQL, RESTful APIs and testing with Jest and Cypress.
 

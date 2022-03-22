@@ -20,7 +20,11 @@ I am enthusiastic to take on new challenges and projects and am a lifetime learn
  
 <div align='center'>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimnivore&theme=vue" />
+</div>
+<div align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=kimnivore&show_icons=true&theme=dracula&&line_height=40" />
+</div>
+<div align='center'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimnivore&layout=compact" />
 </div>
 

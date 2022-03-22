@@ -1,4 +1,4 @@
-# Hi, I'm Kim 🤓, 
+# Hi, I'm Kim 🤓
 
 ***Full Stack Software Engineer***
 
@@ -9,7 +9,7 @@
 
 ## Contact me
 [![Kim Nguyen LinkedIn](https://img.shields.io/badge/Kim_Nguyen-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/kimnguyen79/)
-[![Kim Nguyen Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimnguyen79@gmail.com)
+[![Kim Nguyen Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimnguyen79@gmail.com)
 
 # GitHub Stats
  

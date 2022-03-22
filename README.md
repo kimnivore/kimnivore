@@ -48,8 +48,6 @@ I'm a Full Stack Software Engineer with a background in project management, busi
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Knex.js](https://img.shields.io/badge/Knex.js-orange?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-## Validation & Testing
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Yup](https://img.shields.io/badge/Yup-black?style=for-the-badge)

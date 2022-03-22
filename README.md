@@ -11,7 +11,7 @@ I am enthusiastic to take on new challenges and projects and am a lifetime learn
 
 
  
- https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={kimnivore}&theme=vue
+ https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimnivore&theme=vue
 
 
 Reach me at: 

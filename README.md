@@ -9,26 +9,24 @@ I have a background in project management, business development and banking comp
 I am enthusiastic to take on new challenges and projects and am a lifetime learner. I am known to have excellent communication and teamwork skills and am passionate about creating clean, readable and reusable code.
 
 
-
+###GitHub Stats
  
-[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimnivore&theme=vue)](https://github.com/kimnivore/github-readme-stats)
+<!-- [![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimnivore&theme=vue)](https://github.com/kimnivore/github-readme-stats)
 
 [![Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimnivore&show_icons=true&theme=dracula)](https://github.com/kimnivore/github-readme-stats)
 
 [![Kim' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kimnivore&layout=compact)](https://github.com/kimnivore/github-readme-stats)
-
+ -->
  
-<!-- <a href="https://github.com/kimnivore/github-readme-stats">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimnivore&theme=vue" />
-</a> -->
-
-<!-- <a href="https://github.com/kimnivore/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kimnivore&show_icons=true&theme=dracula" />
-</a>
-
 <a href="https://github.com/kimnivore/github-readme-stats">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimnivore&theme=vue" />
+
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kimnivore&show_icons=true&theme=dracula" />
+
+
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimnivore&layout=compact" />
-</a> -->
+</a>
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)

@@ -8,7 +8,7 @@
 - 🌱  I have a background in project management, business development and banking compliance. 
 - 👩‍💻  I have experience in JavaScript, React, Redux, HTML, CSS, SQL, Node, Express, PostgreSQL, RESTful APIs and testing with Jest and Cypress.
 
-## Contact me
+## Connect with me
 [![Kim Nguyen LinkedIn](https://img.shields.io/badge/Kim_Nguyen-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/kimnguyen79/)
 [![Kim Nguyen Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimnguyen79@gmail.com)
 

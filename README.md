@@ -15,5 +15,5 @@ I am enthusiastic to take on new challenges and projects and am a lifetime learn
 
 
 Reach me at: 
-[![Kim Nguyen LinkedIn](https://img.shields.io/badge/Kim Nguyen-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/kimnguyen79/)
+[![Kim Nguyen LinkedIn](https://img.shields.io/badge/Kim-Nguyen-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/kimnguyen79/)
 [![Kim Nguyen Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimnguyen79@gmail.com)

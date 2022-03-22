@@ -13,6 +13,7 @@ I am enthusiastic to take on new challenges and projects and am a lifetime learn
  
  https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimnivore&theme=vue
 
+https://github-readme-stats.vercel.app/api?username={kimnivore}
 
 Reach me at: 
 [![Kim Nguyen LinkedIn](https://img.shields.io/badge/Kim_Nguyen-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/kimnguyen79/)

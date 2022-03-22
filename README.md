@@ -1,4 +1,4 @@
-### Hi, I'm Kim 🤓, 
+# Hi, I'm Kim 🤓, 
 
 **Full Stack Software Engineer**
 

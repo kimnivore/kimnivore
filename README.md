@@ -15,6 +15,23 @@ https://github-profile-summary-cards.vercel.app/api/cards/profile-details?userna
 
 https://github-readme-stats.vercel.app/api?username=kimnivore
 
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
+
+### Frameworks
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white
+https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=whitehttps://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white
+https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
+https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white
+https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white
+https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white
+
+
 ### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -23,6 +40,11 @@ https://github-readme-stats.vercel.app/api?username=kimnivore
 ### Deployment
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+### IDE Tools
+https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
+https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important
+https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
 
 ### Contact me
 [![Kim Nguyen LinkedIn](https://img.shields.io/badge/Kim_Nguyen-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/kimnguyen79/)

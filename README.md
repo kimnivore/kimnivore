@@ -15,11 +15,16 @@ https://github-profile-summary-cards.vercel.app/api/cards/profile-details?userna
 
 https://github-readme-stats.vercel.app/api?username=kimnivore
 
-### Deployment:
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Deployment
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-### Reach me at: 
+### Contact me
 [![Kim Nguyen LinkedIn](https://img.shields.io/badge/Kim_Nguyen-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/kimnguyen79/)
 [![Kim Nguyen Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimnguyen79@gmail.com)
 

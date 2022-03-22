@@ -1,6 +1,6 @@
 # Hi, I'm Kim 🤓, 
 
-**Full Stack Software Engineer**
+***Full Stack Software Engineer***
 
 - 👩‍💻  I have experience in JavaScript, React, Redux, HTML, CSS, SQL, Node, Express, PostgreSQL, RESTful APIs and testing with Jest and Cypress.
 

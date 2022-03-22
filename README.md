@@ -11,12 +11,12 @@ I am enthusiastic to take on new challenges and projects and am a lifetime learn
 
 
  
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimnivore&theme=vue
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimnivore&theme=vue)](https://github.com/kimnivore/github-readme-stats)
 
-<p align='center'>
 [![Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimnivore&show_icons=true&theme=dracula)](https://github.com/kimnivore/github-readme-stats)
+
 [![Kim' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kimnivore)](https://github.com/kimnivore/github-readme-stats)
-</p>
+
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)

@@ -17,12 +17,15 @@ I am enthusiastic to take on new challenges and projects and am a lifetime learn
 
 [![Kim' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kimnivore&layout=compact)](https://github.com/kimnivore/github-readme-stats)
  -->
+ 
 <a href="https://github.com/kimnivore/github-readme-stats">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimnivore&theme=vue" />
 </a>
+
 <a href="https://github.com/kimnivore/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kimnivore&show_icons=true&theme=dracula" />
 </a>
+
 <a href="https://github.com/kimnivore/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimnivore&layout=compact" />
 </a>

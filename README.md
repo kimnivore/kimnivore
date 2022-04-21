@@ -6,7 +6,7 @@ I'm a Full Stack Software Engineer with a background in project management, busi
 - ⭐  I am enthusiastic about taking on new challenges and consider myself a lifetime learner. 
 - ⚡  I am here to share my personal projects, contribute to third-party projects, and to be inspired!
 - 👩‍💻  I have experience in JavaScript, React, Redux, HTML, CSS, SQL, Node, Express, PostgreSQL, RESTful APIs and testing with Jest and Cypress.
-- 💎  I am currently working on shipping an on-chain keaneXkirby NFT collection.
+- 💎  I am currently working on shipping a dynamic on-chain NFT collection.
 
 
 ### Connect with me:

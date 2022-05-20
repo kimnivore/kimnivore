@@ -5,11 +5,12 @@ I'm a Full Stack Software Engineer with a background in project management, busi
 - 💗  I am passionate about writing clean, readable and reusable code.
 - ⭐  I am enthusiastic about taking on new challenges and consider myself a lifetime learner. 
 - ⚡  I am here to share my personal projects, contribute to third-party projects, and to be inspired!
-- 👩‍💻  I have experience in JavaScript, React, Redux, HTML, CSS, SQL, Node, Express, PostgreSQL, RESTful APIs and testing with Jest and Cypress.
-- 💎  I am currently working on shipping a dynamic, on-chain NFT collection.
-
+- 👩‍💻  I have experience in JavaScript, React, Redux, HTML, CSS, SQL, Node, Express, PostgreSQL, RESTful APIs and testing with Jest and Cypress. 
+- 📖  I am currently learning Solidity and working on shipping a dynamic, on-chain NFT collection.
+- 🌎  My website & portfolio: www.kimnivore.com
 
 ### Connect with me:
+
 [![Kim Nguyen LinkedIn](https://img.shields.io/badge/Kim_Nguyen-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/kimnguyen79/)
 [![Kim Nguyen Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimnguyen79@gmail.com)
 

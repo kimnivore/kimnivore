@@ -1,6 +1,6 @@
 # Hi, I'm Kim 🤓
 
-I'm a Full Stack Software Engineer with a background in project management, business development and banking compliance. 
+Full Stack Web Developer with a background in project management, business development and banking compliance. 
 
 - 💗  I am passionate about writing clean, readable and reusable code.
 - ⭐  I am enthusiastic about taking on new challenges and consider myself a lifetime learner. 
